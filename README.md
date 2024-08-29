@@ -196,6 +196,7 @@ The Flipzon Flash Sale API is designed to handle high-traffic sales events for a
      - **Headers**
       
          Authorization <token>
+     - **Body**
      ```
      {
       "productId": "product_id_here",
